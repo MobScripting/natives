@@ -13,8 +13,9 @@ int ADD_ROAD_NODE_SPEED_ZONE(float x, float y, float z, float radius, float spee
 * **x**: 
 * **y**: 
 * **z**: 
-* **radius**: 
-* **speed**: 
+* **radius**: **
+* **speed**: **
 * **p5**: 
 
 ## Return value
+** Required to be a float in order to function
